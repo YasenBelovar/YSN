@@ -1,0 +1,5 @@
+PySide6>=6.5,<7.0
+youtube-dl==2021.12.17
+pyinstaller>=5.13.0
+setuptools
+wheel
